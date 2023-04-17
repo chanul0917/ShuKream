@@ -1,5 +1,5 @@
 # 요약
-![image](https://user-images.githubusercontent.com/115638416/232486664-0e62a12c-f69d-4a4b-bc11-be5f77458769.png)
+메인로고 업데이트 예정.
 
 프로젝트명 : 슈크림
 
