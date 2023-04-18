@@ -14,7 +14,7 @@
 * 담당 파트 : 메인페이지, 오시는길, shop list, 검색, checkout(주문)기능 구현
 * 사용 기술
     * Tool : STS(version3) , github, BootStrap
-    * Tech : JAVA / JavaScript / CSS / jQuery / JSP / Spring MVC / HTML / Mybatis
+    * Tech : JAVA(openjdk-11) / JavaScript / CSS / jQuery / JSP / Spring MVC / HTML / Mybatis
     * DB : ORACLE 11XE SQL Developer
     * Server : Tomcat 9.0
 
