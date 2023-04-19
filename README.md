@@ -49,6 +49,7 @@
 ## 이미지 자료
 ![image](https://user-images.githubusercontent.com/115638416/232539493-413a7825-22a3-4a0d-b937-c92ba038bf14.png)
 ![image](https://user-images.githubusercontent.com/115638416/232538635-95481c2e-394e-4016-a085-522675c15290.png)
+![image](https://user-images.githubusercontent.com/115638416/232954661-0a1961ec-056d-4eed-ba3d-4ba1acd0c61e.png)
 
 
 ## 🔖DB 구성
